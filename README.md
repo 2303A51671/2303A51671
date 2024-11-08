@@ -7,3 +7,4 @@ lab06 https://github.com/2303A51671/2303A51671/blob/main/Lab06-AIML%20(2).ipynb
 lab07 https://github.com/2303A51671/2303A51671/blob/main/Lab07-SVM%20(3).ipynb
 lab08 https://github.com/2303A51671/2303A51671/blob/main/AIML_Assignment_08.ipynb
 lab09 https://github.com/2303A51671/2303A51671/blob/main/Lab%2009.ipynb
+lab10 https://github.com/2303A51671/2303A51671/blob/main/Lab10-AIML.ipynb
